@@ -2,4 +2,8 @@
 
 Binary classifier to detect Pneumonia using chest X-rays.
 
+My program uses *Convolutional Neural Networks* and has achieved an accuracy of *78.21%*.
+
 Dataset available [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
+Notebook available [here](https://www.kaggle.com/xruvix/pneumonia-detection-using-cnn).
