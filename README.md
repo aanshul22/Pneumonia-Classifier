@@ -6,4 +6,4 @@ My program uses *Convolutional Neural Networks* and has achieved an accuracy of 
 
 Dataset available [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-Notebook available [here](https://www.kaggle.com/xruvix/pneumonia-detection-using-cnn).
+Latest version of Notebook available [here](https://www.kaggle.com/xruvix/pneumonia-detection-using-cnn).
